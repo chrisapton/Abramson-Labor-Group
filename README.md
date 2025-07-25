@@ -4,7 +4,7 @@ This repository contains a demonstration of a basic database-to-report workflow 
 
 ## Project Overview
 
-The goal of this project is to showcase end-to-end data handling, from restoring a commercial sample database to a local SQL Server instance, connecting Power BI Desktop, and creating a concise, interactive sales report with multiple visuals and filters.
+The goal of this project is to showcase end-to-end data handling, from restoring a commercial sample database to a local SQL Server instance, connecting Power BI Desktop, and creating a concise, interactive sales report with multiple visuals and filters. This work was presented to the managers at the Abramson Labor Group.
 
 ## Contents
 
